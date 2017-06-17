@@ -1,1 +1,1 @@
-Ch. 13: Refactor: Removing Hardcoded URLs
+Ch. 13: Using get_absolute_url for Redirects
