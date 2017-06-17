@@ -1,2 +1,1 @@
--remove hardcoded URLs from views.py
 -remove duplcation of validation logic in views
